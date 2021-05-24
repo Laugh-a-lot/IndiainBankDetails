@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import InnerFilter from "./InnerFilter";
 import BankName from "../data/banks.json";
 import Pagination from "./Pagination";
+import {Link} from 'react-router-dom'
 
 function ShowDetails({filteredData,
   setFilteredData,
@@ -78,15 +79,18 @@ function ShowDetails({filteredData,
           <div className="gridwrapper justify-content-center">
             {Object.keys(filteredData)
               .slice((currentPage - 1) * pageLimit, currentPage * pageLimit)
-              .map((data) => (
-                <div
+              .map((data) => (<>
+                <Link  to={{
+    pathname:`bank/${filteredData[data].ifsc}/` ,
+    state: {
+      data: filteredData[data],
+    },
+  }} style={{ textDecoration: 'none' }}><div
                   className="card text-white bg-info"
                   style={{
                     maxWidth: "18rem",
                     minHeight: "18rem",
-                    maxHeight: "2rem",
                   }}
-                  wfd-id="92"
                 >
                   <div className="d-flex">
                     <h6 class="card-header text-center ">
@@ -97,8 +101,11 @@ function ShowDetails({filteredData,
                         (o) => o.ifsc === filteredData[data].ifsc
                       ) ? (
                         <svg
-                          onClick={() =>
-                            handleFavourite(filteredData[data])
+                              onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                handleFavourite(filteredData[data]);
+                              }
                           }
                           xmlns="http://www.w3.org/2000/svg"
                           width="22"
@@ -114,9 +121,12 @@ function ShowDetails({filteredData,
                         </svg>
                       ) : (
                         <svg
-                          onClick={() =>
-                            handleFavourite(filteredData[data])
-                          }
+                              onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                handleFavourite(filteredData[data]);
+                          
+                              }}
                           xmlns="http://www.w3.org/2000/svg"
                           width="22"
                           height="20"
@@ -163,7 +173,7 @@ function ShowDetails({filteredData,
                       {" " + filteredData[data].address}
                     </p>
                   </div>
-                </div>
+                </div></Link></>
               ))}
           </div>
         ) : (

@@ -18,7 +18,8 @@ class BranchViewSet(viewsets.ModelViewSet):
             Q(address__contains = q.upper()) |
             Q(city__contains = q.upper()) |
             Q(district__contains = q.upper()) |
-            Q(state__contains = q.upper())
+            Q(state__contains = q.upper())|
+            Q(ifsc__startswith = q.upper())
         ).order_by('ifsc')[offset: limit+offset]
 
 

@@ -5,5 +5,6 @@ from . import views
 from django.urls import path, include
 
 urlpatterns = [
-    path('', views.index)
+    path('', views.index),
+    path('bank/<str>/', views.index)
 ]
