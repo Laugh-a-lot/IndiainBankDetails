@@ -1,0 +1,682 @@
+[
+    {
+        "id": 1,
+        "name": "STATE BANK OF INDIA"
+    },
+    {
+        "id": 2,
+        "name": "PUNJAB NATIONAL BANK"
+    },
+    {
+        "id": 3,
+        "name": "CANARA BANK"
+    },
+    {
+        "id": 4,
+        "name": "BANK OF BARODA"
+    },
+    {
+        "id": 5,
+        "name": "HDFC BANK"
+    },
+    {
+        "id": 6,
+        "name": "BANK OF INDIA"
+    },
+    {
+        "id": 7,
+        "name": "CENTRAL BANK OF INDIA"
+    },
+    {
+        "id": 8,
+        "name": "ICICI BANK LIMITED"
+    },
+    {
+        "id": 9,
+        "name": "UNION BANK OF INDIA"
+    },
+    {
+        "id": 10,
+        "name": "SYNDICATE BANK"
+    },
+    {
+        "id": 11,
+        "name": "ALLAHABAD BANK"
+    },
+    {
+        "id": 12,
+        "name": "INDIAN OVERSEAS BANK"
+    },
+    {
+        "id": 13,
+        "name": "AXIS BANK"
+    },
+    {
+        "id": 14,
+        "name": "UCO BANK"
+    },
+    {
+        "id": 15,
+        "name": "ANDHRA BANK"
+    },
+    {
+        "id": 16,
+        "name": "IDBI BANK"
+    },
+    {
+        "id": 17,
+        "name": "YES BANK"
+    },
+    {
+        "id": 18,
+        "name": "INDIAN BANK"
+    },
+    {
+        "id": 19,
+        "name": "ORIENTAL BANK OF COMMERCE"
+    },
+    {
+        "id": 20,
+        "name": "CORPORATION BANK"
+    },
+    {
+        "id": 21,
+        "name": "UNITED BANK OF INDIA"
+    },
+    {
+        "id": 22,
+        "name": "VIJAYA BANK"
+    },
+    {
+        "id": 23,
+        "name": "BANK OF MAHARASHTRA"
+    },
+    {
+        "id": 24,
+        "name": "STATE BANK OF HYDERABAD"
+    },
+    {
+        "id": 25,
+        "name": "DENA BANK"
+    },
+    {
+        "id": 26,
+        "name": "PUNJAB AND SIND BANK"
+    },
+    {
+        "id": 27,
+        "name": "STATE BANK OF BIKANER AND JAIPUR"
+    },
+    {
+        "id": 28,
+        "name": "STATE BANK OF PATIALA"
+    },
+    {
+        "id": 29,
+        "name": "FEDERAL BANK"
+    },
+    {
+        "id": 30,
+        "name": "STATE BANK OF TRAVANCORE"
+    },
+    {
+        "id": 31,
+        "name": "STATE BANK OF MYSORE"
+    },
+    {
+        "id": 32,
+        "name": "KOTAK MAHINDRA BANK LIMITED"
+    },
+    {
+        "id": 33,
+        "name": "INDUSIND BANK"
+    },
+    {
+        "id": 34,
+        "name": "JAMMU AND KASHMIR BANK LIMITED"
+    },
+    {
+        "id": 35,
+        "name": "SOUTH INDIAN BANK"
+    },
+    {
+        "id": 36,
+        "name": "KARNATAKA BANK LIMITED"
+    },
+    {
+        "id": 37,
+        "name": "KARUR VYSYA BANK"
+    },
+    {
+        "id": 38,
+        "name": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 39,
+        "name": "PRAGATHI KRISHNA GRAMIN BANK"
+    },
+    {
+        "id": 40,
+        "name": "ING VYSYA BANK"
+    },
+    {
+        "id": 41,
+        "name": "KARNATAKA VIKAS GRAMEENA BANK"
+    },
+    {
+        "id": 42,
+        "name": "BANDHAN BANK LIMITED"
+    },
+    {
+        "id": 43,
+        "name": "KERALA GRAMIN BANK"
+    },
+    {
+        "id": 44,
+        "name": "CITY UNION BANK LIMITED"
+    },
+    {
+        "id": 45,
+        "name": "THE SHAMRAO VITHAL COOPERATIVE BANK"
+    },
+    {
+        "id": 46,
+        "name": "ANDHRA PRAGATHI GRAMEENA BANK"
+    },
+    {
+        "id": 47,
+        "name": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 48,
+        "name": "TAMILNAD MERCANTILE BANK LIMITED"
+    },
+    {
+        "id": 49,
+        "name": "LAXMI VILAS BANK"
+    },
+    {
+        "id": 50,
+        "name": "CATHOLIC SYRIAN BANK LIMITED"
+    },
+    {
+        "id": 51,
+        "name": "PRATHAMA BANK"
+    },
+    {
+        "id": 52,
+        "name": "SARASWAT COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 53,
+        "name": "THE WEST BENGAL STATE COOPERATIVE BANK"
+    },
+    {
+        "id": 54,
+        "name": "DHANALAKSHMI BANK"
+    },
+    {
+        "id": 55,
+        "name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 56,
+        "name": "RATNAKAR BANK LIMITED"
+    },
+    {
+        "id": 57,
+        "name": "DCB BANK LIMITED"
+    },
+    {
+        "id": 58,
+        "name": "THE COSMOS CO OPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 59,
+        "name": "THE NAINITAL BANK LIMITED"
+    },
+    {
+        "id": 60,
+        "name": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 61,
+        "name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+        "id": 62,
+        "name": "PUNJAB AND MAHARSHTRA COOPERATIVE BANK"
+    },
+    {
+        "id": 63,
+        "name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMIT"
+    },
+    {
+        "id": 64,
+        "name": "STANDARD CHARTERED BANK"
+    },
+    {
+        "id": 65,
+        "name": "NKGSB COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 66,
+        "name": "TJSB SAHAKARI BANK LTD"
+    },
+    {
+        "id": 67,
+        "name": "BHARATIYA MAHILA BANK LIMITED"
+    },
+    {
+        "id": 68,
+        "name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED"
+    },
+    {
+        "id": 69,
+        "name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 70,
+        "name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMI"
+    },
+    {
+        "id": 71,
+        "name": "THE NASIK MERCHANTS COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 72,
+        "name": "MAHANAGAR COOPERATIVE BANK"
+    },
+    {
+        "id": 73,
+        "name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 74,
+        "name": "APNA SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 75,
+        "name": "G P PARSIK BANK"
+    },
+    {
+        "id": 76,
+        "name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITE"
+    },
+    {
+        "id": 77,
+        "name": "JANATA SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 78,
+        "name": "HSBC BANK"
+    },
+    {
+        "id": 79,
+        "name": "MAHARASHTRA STATE COOPERATIVE BANK"
+    },
+    {
+        "id": 80,
+        "name": "KALUPUR COMMERCIAL COOPERATIVE BANK"
+    },
+    {
+        "id": 81,
+        "name": "ALMORA URBAN COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 82,
+        "name": "THE DELHI STATE COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 83,
+        "name": "THE KARAD URBAN COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 84,
+        "name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 85,
+        "name": "DOMBIVLI NAGARI SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 86,
+        "name": "NAGAR URBAN CO OPERATIVE BANK"
+    },
+    {
+        "id": 87,
+        "name": "CITI BANK"
+    },
+    {
+        "id": 88,
+        "name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 89,
+        "name": "THE MEHSANA URBAN COOPERATIVE BANK"
+    },
+    {
+        "id": 90,
+        "name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BA"
+    },
+    {
+        "id": 91,
+        "name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 92,
+        "name": "CAPITAL LOCAL AREA BANK LIMITED"
+    },
+    {
+        "id": 93,
+        "name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 94,
+        "name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED"
+    },
+    {
+        "id": 95,
+        "name": "SOLAPUR JANATA SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 96,
+        "name": "KALYAN JANATA SAHAKARI BANK"
+    },
+    {
+        "id": 97,
+        "name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE"
+    },
+    {
+        "id": 98,
+        "name": "JALGAON JANATA SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 99,
+        "name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 100,
+        "name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK"
+    },
+    {
+        "id": 101,
+        "name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD"
+    },
+    {
+        "id": 102,
+        "name": "PRIME COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 103,
+        "name": "AHMEDABAD MERCANTILE COOPERATIVE BANK"
+    },
+    {
+        "id": 104,
+        "name": "IDFC BANK LIMITED"
+    },
+    {
+        "id": 105,
+        "name": "JANASEVA SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 106,
+        "name": "NEW INDIA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 107,
+        "name": "THE VISHWESHWAR SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 108,
+        "name": "RESERVE BANK OF INDIA"
+    },
+    {
+        "id": 109,
+        "name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK"
+    },
+    {
+        "id": 110,
+        "name": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+        "id": 111,
+        "name": "JANAKALYAN SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 112,
+        "name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 113,
+        "name": "THE SURATH PEOPLES COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 114,
+        "name": "THE THANE BHARAT SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 115,
+        "name": "DEUSTCHE BANK"
+    },
+    {
+        "id": 116,
+        "name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 117,
+        "name": "THE MUNICIPAL COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 118,
+        "name": "NUTAN NAGARIK SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 119,
+        "name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 120,
+        "name": "TJSB SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 121,
+        "name": "THE VARACHHA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 122,
+        "name": "VASAI VIKAS SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 123,
+        "name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 124,
+        "name": "KAPOL COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 125,
+        "name": "SUTEX COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 126,
+        "name": "THE HASTI COOP BANK LTD"
+    },
+    {
+        "id": 127,
+        "name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED"
+    },
+    {
+        "id": 128,
+        "name": "RAJGURUNAGAR SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 129,
+        "name": "SURAT NATIONAL COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 130,
+        "name": "DEVELOPMENT BANK OF SINGAPORE"
+    },
+    {
+        "id": 131,
+        "name": "THE KANGRA COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 132,
+        "name": "B N P PARIBAS"
+    },
+    {
+        "id": 133,
+        "name": "MIZUHO CORPORATE BANK LIMITED"
+    },
+    {
+        "id": 134,
+        "name": "SHINHAN BANK"
+    },
+    {
+        "id": 135,
+        "name": "BANK OF TOKYO MITSUBISHI LIMITED"
+    },
+    {
+        "id": 136,
+        "name": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK CAL"
+    },
+    {
+        "id": 137,
+        "name": "BANK OF AMERICA"
+    },
+    {
+        "id": 138,
+        "name": "BANK OF BAHARAIN AND KUWAIT BSC"
+    },
+    {
+        "id": 139,
+        "name": "THE BANK OF NOVA SCOTIA"
+    },
+    {
+        "id": 140,
+        "name": "BARCLAYS BANK"
+    },
+    {
+        "id": 141,
+        "name": "SOCIETE GENERALE"
+    },
+    {
+        "id": 142,
+        "name": "CHINATRUST COMMERCIAL BANK LIMITED"
+    },
+    {
+        "id": 143,
+        "name": "ABU DHABI COMMERCIAL BANK"
+    },
+    {
+        "id": 144,
+        "name": "SHIKSHAK SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 145,
+        "name": "BANK OF CEYLON"
+    },
+    {
+        "id": 146,
+        "name": "DOHA BANK"
+    },
+    {
+        "id": 147,
+        "name": "FIRSTRAND BANK LIMITED"
+    },
+    {
+        "id": 148,
+        "name": "DEPOSIT INSURANCE AND CREDIT GUARANTEE CORPORATIO"
+    },
+    {
+        "id": 149,
+        "name": "CREDIT SUISEE AG"
+    },
+    {
+        "id": 150,
+        "name": "INDUSTRIAL BANK OF KOREA"
+    },
+    {
+        "id": 151,
+        "name": "WOORI BANK"
+    },
+    {
+        "id": 152,
+        "name": "WESTPAC BANKING CORPORATION"
+    },
+    {
+        "id": 153,
+        "name": "COMMONWEALTH BANK OF AUSTRALIA"
+    },
+    {
+        "id": 154,
+        "name": "MASHREQBANK PSC"
+    },
+    {
+        "id": 155,
+        "name": "SBM BANK MAURITIUS LIMITED"
+    },
+    {
+        "id": 156,
+        "name": "RABOBANK INTERNATIONAL"
+    },
+    {
+        "id": 157,
+        "name": "EXPORT IMPORT BANK OF INDIA"
+    },
+    {
+        "id": 158,
+        "name": "JP MORGAN BANK"
+    },
+    {
+        "id": 159,
+        "name": "THE GADCHIROLI DISTRICT CENTRAL COOPERATIVE BANK "
+    },
+    {
+        "id": 160,
+        "name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+    },
+    {
+        "id": 161,
+        "name": "RAJKOT NAGRIK SAHAKARI BANK LIMITED"
+    },
+    {
+        "id": 162,
+        "name": "BANK INTERNASIONAL INDONESIA"
+    },
+    {
+        "id": 163,
+        "name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED"
+    },
+    {
+        "id": 164,
+        "name": "THE SEVA VIKAS COOPERATIVE BANK LIMITED"
+    },
+    {
+        "id": 165,
+        "name": "UNITED OVERSEAS BANK LIMITED"
+    },
+    {
+        "id": 166,
+        "name": "SBER BANK"
+    },
+    {
+        "id": 167,
+        "name": "NATIONAL AUSTRALIA BANK LIMITED"
+    },
+    {
+        "id": 168,
+        "name": "DOHA BANK QSC"
+    },
+    {
+        "id": 169,
+        "name": "NATIONAL BANK OF ABU DHABI PJSC"
+    },
+    {
+        "id": 170,
+        "name": "SUMITOMO MITSUI BANKING CORPORATION"
+    }
+]

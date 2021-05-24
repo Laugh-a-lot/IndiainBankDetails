@@ -1,0 +1,15 @@
+.help{
+    display: flex;
+}
+.help:hover{
+    color: #008BDC;
+    text-shadow: #008BDC;
+}
+.gridwrapper{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 2fr));
+    grid-gap: .5rem;
+}
+.card-header {
+    border-bottom: 3px solid rgb(154 163 174 / 10%);
+}
