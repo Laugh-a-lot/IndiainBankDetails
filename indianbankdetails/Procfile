@@ -1,1 +1,1 @@
-web: gunicorn indianbankdetails.wsgi.application
+web: gunicorn indianbankdetails.wsgi
