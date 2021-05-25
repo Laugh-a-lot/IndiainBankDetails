@@ -93,7 +93,7 @@ function ShowDetails({filteredData,
                   }}
                 >
                   <div className="d-flex">
-                    <h6 class="card-header text-center ">
+                    <h6 className="card-header text-center ">
                       {BankName[filteredData[data].bank].name}{" "}
                     </h6>
                     <div className="ms-auto p-2 bd-highlight">
@@ -111,7 +111,7 @@ function ShowDetails({filteredData,
                           width="22"
                           height="20"
                           fill="#f00"
-                          class="bi bi-heart-fill"
+                          className="bi bi-heart-fill"
                           viewBox="0 0 16 16"
                         >
                           <path
@@ -131,7 +131,7 @@ function ShowDetails({filteredData,
                           width="22"
                           height="20"
                           fill="#fff"
-                          class="bi bi-heart-fill"
+                          className="bi bi-heart-fill"
                           viewBox="0 0 16 16"
                         >
                           <path
@@ -142,34 +142,34 @@ function ShowDetails({filteredData,
                       )}
                     </div>
                   </div>
-                  <div class="card-header text-center h5">
+                  <div className="card-header text-center h5">
                     {"IFSC: " + filteredData[data].ifsc}
                   </div>
 
                   <div className="d-flex ps-1">
                     Branch:
-                    <p class="card-text text-start ps-2">
+                    <p className="card-text text-start ps-2">
                       {" " + filteredData[data].branch}
                     </p>
                   </div>
 
                   <div className="d-flex ps-1">
                     City:
-                    <p class="card-text text-start ps-2">
+                    <p className="card-text text-start ps-2">
                       {" " + filteredData[data].city}
                     </p>
                   </div>
 
                   <div className="d-flex ps-1">
                     State:
-                    <p class="card-text text-start ps-2">
+                    <p className="card-text text-start ps-2">
                       {" " + filteredData[data].state}
                     </p>
                   </div>
 
                   <div className="d-flex ps-1">
                     Address:
-                    <p class="card-text text-start ps-2">
+                    <p className="card-text text-start ps-2">
                       {" " + filteredData[data].address}
                     </p>
                   </div>

@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'indianbankdetails.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'indian_banks_api',
-        'USER': 'postgres',
-        'PASSWORD': 'kashyap007',
-        'HOST': 'localhost',
+        'NAME': 'bne6fixz6ymspxkw1req',
+        'USER': 'use8w95o5dbubvv5zwqu',
+        'PASSWORD': 'ZxwTT7IrBzyGVgLBCvim',
+        'HOST': 'bne6fixz6ymspxkw1req-postgresql.services.clever-cloud.com',
         'PORT': '5432',
     }
 }
