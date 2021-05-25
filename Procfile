@@ -1,1 +1,1 @@
-web: gunicorn indianbankdetails.wsgi
+web: gunicorn indianbankdetails.indianbankdetails.wsgi
